@@ -1,5 +1,7 @@
 # ElixirJobs
 
+[![](https://github.com/duksis/elixirjobs/workflows/Test/badge.svg)](https://github.com/duksis/elixirjobs/actions)
+
 > Aggregates elixir jobs from different sources
 
 
@@ -13,12 +15,14 @@ open positions related to the [Elixir programming language](https://elixir-lang.
 
 Implemented:
 
-List of potential sources:
-- https://stackoverflow.com/jobs/developer-jobs-using-elixir
 - https://elixirjobs.net
+- https://stackoverflow.com/jobs/feed?tl=elixir
+
+
+List of potential sources:
+
 - http://plataformatec.com.br/elixir-radar/jobs
 - https://www.linkedin.com/jobs/search/?keywords=elixir
-- https://elixir.career/feed
 - https://remoteok.io/remote-elixir-jobs
 
 
